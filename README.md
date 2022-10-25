@@ -1,4 +1,4 @@
-# Predicting the Outcomes of Asylum Cases Using Machine Learning
+# Predicting Outcomes of Asylum Cases Using Machine Learning
 
 
 Paria Elyasi<br>
