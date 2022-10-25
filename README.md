@@ -14,20 +14,20 @@ Documents in this project include:
 
 
 Project Summary Document:<br>
-1 - Paria Elyasi - Capstone Project - Report.pdf - This is the report that summarizes the project
+1 - Capstone Project - Report.pdf - This is the report that summarizes the project
 
 
 The process in SQL:<br>
-2 - Paria Elyasi - Capstone Project - Data Cleaning.sql - This is the SQL code for queries and final csv file to work with in Jupyter Notebook
+2 - Capstone Project - Data Cleaning.sql - This is the SQL code for queries and final csv file to work with in Jupyter Notebook
 
 
 The process in Jupyter Notebooks:<br>
-3 - Paria Elyasi - Capstone Project Notebook 1 - Data Cleaning & Basic EDA.ipynb<br>
-4 - Paria Elyasi - Capstone Project Notebook 2 - Advanced EDA & Data Wrangling.ipynb<br>
-5 - Paria Elyasi - Capstone Project Notebook 3 - Modeling.ipynb<br>
-6 - Paria Elyasi - Capstone Project Notebook 4 - Modeling - XGBoost.ipynb <br>
+3 - Notebook 1 - Data Cleaning & Basic EDA.ipynb<br>
+4 - Notebook 2 - Advanced EDA & Data Wrangling.ipynb<br>
+5 - Notebook 3 - Modeling.ipynb<br>
+6 - Notebook 4 - Modeling - XGBoost.ipynb <br>
 	* Note that this notebook uses Interpretable ML environment. Please see requirements.txt for instructions on installing this environment.<br>
-7 - Paria Elyasi - Capstone Project Notebook 5 - Balancing.ipynb<br>
+7 - Notebook 5 - Balancing.ipynb<br>
 
 
 The data files included in the data folder are:<br>
@@ -48,7 +48,7 @@ The requirements for environment: <br>
 
 
 The SQL Migration Instructions:<br>
-15 - Paria Elyasi - Capstone Project - SQL Migration Instructions.pdf - This is the instructions on how to import raw data into Microsoft SQL Server and migrate to MySQL Workbench<br>
+15 - SQL Migration Instructions.pdf - This is the instructions on how to import raw data into Microsoft SQL Server and migrate to MySQL Workbench<br>
 
 
 Project Citation: <br>
