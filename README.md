@@ -31,10 +31,10 @@ The process in Jupyter Notebooks:<br>
 
 
 The data files included in the data folder are:<br>
-8 - RAW DATA: Note that this raw data folder could not be included in SYNAPSE submission due to file size and it is hosted on Google Drive.<br>
+8 - RAW DATA: Note that this raw data folder is hosted on Google Drive.<br>
 	* https://drive.google.com/drive/folders/1Ffe-3izMry6vNvDhrJfNLpkBB8ShIP92
 
-9 - SQL Schema: Note that the SQL Schema where original raw data was loaded to work with could not be included in SYNAPSE submission due to file size and it is hosted on Google Drive.<br>
+9 - SQL Schema: Note that the SQL Schema for the raw data is hosted on Google Drive.<br>
 	* https://drive.google.com/drive/folders/1Ffe-3izMry6vNvDhrJfNLpkBB8ShIP92
 
 10 - immigration_asylum_dataset.csv - This is the csv file after initial cleaning/querying in SQL<br>
