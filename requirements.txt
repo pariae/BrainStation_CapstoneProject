@@ -1,0 +1,45 @@
+To create the Interpretable ML environment, please follow the instructions below.
+
+
+####### For Mac users, please create the following conda environment:
+
+
+conda create -n interpretable_ml python=3.8 numpy pandas matplotlib seaborn statsmodels scikit-learn=0.24.1 jupyter jupyterlab
+
+
+conda activate interpretable_ml
+
+
+conda install -c conda-forge shap
+
+
+conda install -c conda-forge lime
+
+
+conda install -c conda-forge xgboost=1.1.1
+
+
+ipython kernel install --name "interpretable_ml" --user
+
+
+
+
+###### For Windows users, please create the following conda environment:
+
+
+conda create -n interpretable_ml python=3.8 numpy pandas matplotlib seaborn statsmodels scikit-learn=0.24.1 jupyter jupyterlab
+
+
+conda activate interpretable_ml
+
+
+conda install -c conda-forge shap
+
+
+conda install -c conda-forge lime
+
+
+pip install xgboost==1.1.1
+
+
+ipython kernel install --name "interpretable_ml" --user
