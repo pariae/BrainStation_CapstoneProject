@@ -1,9 +1,9 @@
 # Predicting the Outcomes of Asylum Cases Using Machine Learning
 
 
-Paria Elyasi
-pariae@me.com
-Date: 09-25-2022
+Paria Elyasi<br>
+pariae@me.com<br>
+Date: 09-25-2022<br>
 
 
 Capstone Project: Predicting Outcomes of Asylum Cases in the United States
